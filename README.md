@@ -133,8 +133,22 @@ frontend/
 - Implement email verification during registration.
 - Enhance user interface with better design.
 - Sign in with Google Functionality
+- ![future](https://github.com/user-attachments/assets/62f566e7-f6d9-43c9-9821-5186cb8ee5fb)
+
 
 ---
 
 ## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
+
+![image](https://github.com/user-attachments/assets/3ec3ddb1-d64b-4cbb-898b-eafe5f74633e)
+![image](https://github.com/user-attachments/assets/9c0b967f-d27c-40b4-b706-2c7ed842f735)
+![image](https://github.com/user-attachments/assets/b28d15b5-5e53-4e96-b4f9-cb7cd0b8be0e)
+![image](https://github.com/user-attachments/assets/8952d7ba-960a-4243-81e7-247d102511a3)
+
+
+
+
+
+
+
