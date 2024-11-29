@@ -16,7 +16,7 @@ const Dashboard = () => {
       }
 
       try {
-        const res = await axios.get("http://localhost:5000/api/auth/user", {
+        const res = await axios.get("https://vrv-3.onrender.com/api/auth/user", {
           headers: { Authorization: `Bearer ${token}` },
         });
         setUser(res.data);
